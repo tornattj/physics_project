@@ -1,4 +1,4 @@
-#   Jacob Tornatta 3/5/20
+#   physics_project 2020
 
 print("Welcome")
 print("Commands = f to c, c to f, get force, get energy, get work, exit")
